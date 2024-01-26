@@ -26,10 +26,10 @@ Finalidad
 * Experiencia propia al usuario ✅
 * Libertad de eleccion ✅
 
-` Nota: Recordar ingresar el nombre de la imagen tal cual con su extenciom ya sea png, jpg, etc etc... y debera estar en el directorio principal de termux $HOME`
+` Nota: Recordar ingresar el nombre de la imagen tal cual con su extención ya sea png, jpg, etc etc... y debera estar en el directorio principal de termux $HOME`
 
 ### EJEMPLO:
-* Si tu imagen esta en Downloads y tu imagen se llama: `mi_imagen.png` entonces deberas ingresar este comando para moberla al directorio $HOME
+* Si tu imagen esta en Downloads y tu imagen se llama: `mi_imagen.png` entonces deberas ingresar este comando para moverla al directorio $HOME
 ```
 cd ~ ; cp /sdcard/Download/mi_imagen.png .
 ```
