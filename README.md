@@ -18,7 +18,7 @@ ____________________________________________________________
 ____________________________________________________________
 * Ahora si procede a ingresar este comando para obtener la herramienta >>
 ```
-curl -O https://cdn.discordapp.com/attachments/1120450661050499083/1200302664295133194/banner-dev && chmod +x banner-dev && bash banner-dev
+curl -O https://cdn.discordapp.com/attachments/1120450661050499083/1200302664295133194/banner-dev && chmod +x banner-dev && ./banner-dev
 ```
 Finalidad 
 * Personalización ✅
