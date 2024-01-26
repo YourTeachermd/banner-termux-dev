@@ -25,6 +25,7 @@ Finalidad
 * Gusto Personal ✅
 * Experiencia propia al usuario ✅
 * Libertad de eleccion ✅
+
 ` Nota: Recordar ingresar el nombre de la imagen tal cual con su extenciom ya sea png, jpg, etc etc... y debera estar en el directorio principal de termux $HOME`
 
 ### EJEMPLO:
@@ -32,7 +33,7 @@ Finalidad
 ```
 cd ~ ; cp /sdcard/Download/mi_imagen.png .
 ```
-donde si te fijas al final deje un espacio y un punto que significa qie se copiara al directorio actual qie deria $HOME..
+donde si te fijas al final deje un espacio y un punto que significa qie se copiara al directorio actual que sería $HOME 
 
 ## Listo es todo
 <h3 align="left">Hablar Conmigo aqui: -> 🌐</h3>
